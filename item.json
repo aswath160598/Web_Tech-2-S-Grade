@@ -1,0 +1,22 @@
+data=[
+    { "id" : "0", "photo":"images/101.jpeg", "category" : "chair",         "description" : "Bardot Lounge Chair",        "price" : "319.99", "qty" : "1" },
+    { "id" : "1", "photo":"images/bra.jpg", "category" : "chair",         "description" : "Brando Arm Chair",        "price" : "419.99", "qty" : "1" },
+    { "id" : "2", "photo":"images/gen.jpg", "category" : "chair",         "description" : "Genoa Wing Chair",        "price" : "339.99", "qty" : "1" },
+    { "id" : "3", "photo":"images/mor.jpg", "category" : "chair",         "description" : "Morgan Wing Chair",        "price" : "529.99", "qty" : "1" },
+    { "id" : "4", "photo":"images/rec.jpg", "category" : "chair",         "description" : "Rochelle Lounge Chair",        "price" : "299.99", "qty" : "1" },
+    { "id" : "5", "photo":"images/ast.jpg", "category" : "lamp",         "description" : "Astana Floor Lamp",        "price" : "319.99", "qty" : "1" },
+     { "id" : "16", "photo":"images/mag.jpg", "category" : "chest",         "description" : "Magelian Tall Chest",        "price" : "339.99", "qty" : "1" },
+    { "id" : "6", "photo":"images/dra.jpg", "category" : "lamp",         "description" : "Drachen Table Lamp",        "price" : "419.99", "qty" : "1" },
+    { "id" : "7", "photo":"images/end.jpg", "category" : "lamp",         "description" : "Endeavour Tripod Floor Lamp",        "price" : "339.99", "qty" : "1" },
+    { "id" : "8", "photo":"images/kep.jpg", "category" : "lamp",         "description" : "Kepler Tripod Floor Lamp",        "price" : "529.99", "qty" : "1" },
+    { "id" : "9", "photo":"images/mis.jpg", "category" : "lamp",         "description" : "Missouri Tripod Spotlight",        "price" : "299.99", "qty" : "1" },
+    { "id" : "10", "photo":"images/garuda.jpg", "category" : "mirror",         "description" : "Garda Wall Mirror",        "price" : "419.99", "qty" : "1" },
+    { "id" : "11", "photo":"images/sai.jpg", "category" : "mirror",         "description" : "Saima Wall Mirror",        "price" : "339.99", "qty" : "1" },
+    { "id" : "12", "photo":"images/sol.jpg", "category" : "mirror",         "description" : "Solis Wall Mirror",        "price" : "529.99", "qty" : "1" },
+    { "id" : "14", "photo":"images/ema.jpg", "category" : "chest",         "description" : "Evelyn Chest of Drawers",        "price" : "319.99", "qty" : "1" },
+    { "id" : "15", "photo":"images/eve.jpg", "category" : "chest",         "description" : "Emada Chest of Drawers",        "price" : "419.99", "qty" : "1" },
+    { "id" : "17", "photo":"images/mage.jpg", "category" : "chest",         "description" : "Malcoven Chest of Drawers",        "price" : "529.99", "qty" : "1" },
+    { "id" : "18", "photo":"images/wal.jpg", "category" : "chest",         "description" : "Walter Chest of Drawers",        "price" : "299.99", "qty" : "1" },
+    { "id" : "13", "photo":"images/ven.jpg", "category" : "mirror",         "description" : "Venus Wall Mirror",        "price" : "299.99", "qty" : "1" }
+  ];
+  
